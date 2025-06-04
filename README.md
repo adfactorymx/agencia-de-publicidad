@@ -31,3 +31,23 @@ adfactory-content/
 ├── contacto.md
 └── blog/
 └── [artículos individuales].md
+
+## 🧠 Objetivo
+
+- Documentar el contenido del sitio en un formato ligero y portable.
+- Hacerlo más accesible para análisis SEO y procesamiento por modelos de lenguaje (LLMs).
+- Facilitar migraciones a CMS estáticos, apps móviles o sitios multilingües.
+
+## 🛠 Cómo Usar
+
+1. Puedes copiar los archivos `.md` directamente en tu CMS estático como Jekyll, Hugo o Astro.
+2. Los metadatos YAML (`---`) al inicio de cada archivo son útiles para SEO y configuración automática de páginas.
+3. Los archivos son fácilmente indexables y adaptables a cualquier entorno web moderno.
+
+## 📜 Licencia
+
+Este contenido está disponible bajo la licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), excepto donde se indique lo contrario. Ad Factory retiene los derechos comerciales sobre su marca y contenido visual.
+
+---
+
+**Ad Factory – Creamos marcas que venden.**
