@@ -1,4 +1,4 @@
-# Ad Factory – Contenido Web en Markdown (SEO-Optimizado)
+# Ad Factory – Contenido Web en Markdown
 
 Este repositorio contiene versiones en formato Markdown de las principales páginas del sitio [adfactory.mx](https://www.adfactory.mx), optimizadas para motores de búsqueda y para uso en sistemas de contenido estático, documentación o entrenamiento de modelos de lenguaje.
 
