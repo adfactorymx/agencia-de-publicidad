@@ -50,4 +50,4 @@ Este contenido está disponible bajo la licencia [CC BY 4.0](https://creativecom
 
 ---
 
-**Ad Factory – Creamos marcas que venden.**
+**Ad Factory – Diseño y comunicación gráfica para crecer y fortalecer tu marca.**
